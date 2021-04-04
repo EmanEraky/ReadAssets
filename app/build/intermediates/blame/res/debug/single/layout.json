@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\eman\\ReadSvg\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\eman\\ReadSvg\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\eman\\ReadSvg\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_door.xml",
+        "source": "D:\\eman\\ReadSvg\\app\\src\\main\\res\\layout\\item_door.xml"
+    }
+]

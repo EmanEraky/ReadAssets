@@ -1,0 +1,4 @@
+#Sun Apr 04 23:01:52 EET 2021
+base.0=D\:\\eman\\ReadSvg\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
